@@ -1,0 +1,5 @@
+{
+  "name": "PURE AND APPLIED SCIENCE TIMETABLE",
+  "description": "An examination timetabling system for the Faculty of Pure and Applied Science, utilizing Genetic Algorithms and Simulated Annealing to generate optimal and conflict-free schedules.",
+  "requestFramePermissions": []
+}
